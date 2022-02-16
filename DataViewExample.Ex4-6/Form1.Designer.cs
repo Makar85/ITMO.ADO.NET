@@ -50,31 +50,31 @@ namespace DataViewExample.Ex4_6
             this.CustomersGrid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.CustomersGrid.Location = new System.Drawing.Point(12, 12);
             this.CustomersGrid.Name = "CustomersGrid";
-            this.CustomersGrid.Size = new System.Drawing.Size(664, 394);
+            this.CustomersGrid.Size = new System.Drawing.Size(584, 426);
             this.CustomersGrid.TabIndex = 0;
             // 
             // SortTextBox
             // 
-            this.SortTextBox.Location = new System.Drawing.Point(12, 418);
+            this.SortTextBox.Location = new System.Drawing.Point(617, 25);
             this.SortTextBox.Name = "SortTextBox";
-            this.SortTextBox.Size = new System.Drawing.Size(80, 20);
+            this.SortTextBox.Size = new System.Drawing.Size(154, 20);
             this.SortTextBox.TabIndex = 1;
             this.SortTextBox.Text = "CustomerID";
             // 
             // FilterTextBox
             // 
-            this.FilterTextBox.Location = new System.Drawing.Point(98, 418);
+            this.FilterTextBox.Location = new System.Drawing.Point(617, 66);
             this.FilterTextBox.Name = "FilterTextBox";
-            this.FilterTextBox.Size = new System.Drawing.Size(86, 20);
+            this.FilterTextBox.Size = new System.Drawing.Size(154, 20);
             this.FilterTextBox.TabIndex = 2;
             this.FilterTextBox.Text = "City = \'London\'";
             // 
             // SetDataViewPropertiesButton
             // 
             this.SetDataViewPropertiesButton.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.SetDataViewPropertiesButton.Location = new System.Drawing.Point(201, 418);
+            this.SetDataViewPropertiesButton.Location = new System.Drawing.Point(617, 108);
             this.SetDataViewPropertiesButton.Name = "SetDataViewPropertiesButton";
-            this.SetDataViewPropertiesButton.Size = new System.Drawing.Size(83, 23);
+            this.SetDataViewPropertiesButton.Size = new System.Drawing.Size(154, 23);
             this.SetDataViewPropertiesButton.TabIndex = 3;
             this.SetDataViewPropertiesButton.Text = "Set DataView Properties";
             this.SetDataViewPropertiesButton.TextAlign = System.Drawing.ContentAlignment.TopLeft;
@@ -84,9 +84,9 @@ namespace DataViewExample.Ex4_6
             // AddRowButton
             // 
             this.AddRowButton.BackColor = System.Drawing.SystemColors.ControlLight;
-            this.AddRowButton.Location = new System.Drawing.Point(299, 418);
+            this.AddRowButton.Location = new System.Drawing.Point(617, 148);
             this.AddRowButton.Name = "AddRowButton";
-            this.AddRowButton.Size = new System.Drawing.Size(78, 23);
+            this.AddRowButton.Size = new System.Drawing.Size(154, 23);
             this.AddRowButton.TabIndex = 4;
             this.AddRowButton.Text = "Add Row";
             this.AddRowButton.TextAlign = System.Drawing.ContentAlignment.TopLeft;
@@ -131,9 +131,7 @@ namespace DataViewExample.Ex4_6
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1370, 450);
-            this.Controls.Add(this.OrdersGrid);
-            this.Controls.Add(this.GetOrdersButton);
+            this.ClientSize = new System.Drawing.Size(1243, 450);
             this.Controls.Add(this.AddRowButton);
             this.Controls.Add(this.SetDataViewPropertiesButton);
             this.Controls.Add(this.FilterTextBox);

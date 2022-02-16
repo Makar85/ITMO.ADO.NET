@@ -1,0 +1,10 @@
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\WorkingDataTable.Ex4-5\bin\Debug\WorkingDataTable.Ex4-5.exe.config
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\WorkingDataTable.Ex4-5\bin\Debug\WorkingDataTable.Ex4-5.exe
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\WorkingDataTable.Ex4-5\bin\Debug\WorkingDataTable.Ex4-5.pdb
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\WorkingDataTable.Ex4-5\obj\Debug\WorkingDataTable.Ex4-5.csproj.AssemblyReference.cache
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\WorkingDataTable.Ex4-5\obj\Debug\WorkingDataTable.Ex4_5.Form1.resources
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\WorkingDataTable.Ex4-5\obj\Debug\WorkingDataTable.Ex4_5.Properties.Resources.resources
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\WorkingDataTable.Ex4-5\obj\Debug\WorkingDataTable.Ex4-5.csproj.GenerateResource.cache
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\WorkingDataTable.Ex4-5\obj\Debug\WorkingDataTable.Ex4-5.csproj.CoreCompileInputs.cache
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\WorkingDataTable.Ex4-5\obj\Debug\WorkingDataTable.Ex4-5.exe
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\WorkingDataTable.Ex4-5\obj\Debug\WorkingDataTable.Ex4-5.pdb

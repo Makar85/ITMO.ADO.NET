@@ -131,7 +131,7 @@ namespace DataViewExample.Ex4_6
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1243, 450);
+            this.ClientSize = new System.Drawing.Size(1206, 450);
             this.Controls.Add(this.AddRowButton);
             this.Controls.Add(this.SetDataViewPropertiesButton);
             this.Controls.Add(this.FilterTextBox);

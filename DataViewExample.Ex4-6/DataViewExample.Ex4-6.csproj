@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B7575C9B-B042-415B-9D47-E3C62C1367C6}</ProjectGuid>
+    <ProjectGuid>{D1E0E3A8-37E3-4214-88ED-61EE416B16F5}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>WorkingDataTable.Ex4_5</RootNamespace>
-    <AssemblyName>WorkingDataTable.Ex4-5</AssemblyName>
+    <RootNamespace>DataViewExample.Ex4_6</RootNamespace>
+    <AssemblyName>DataViewExample.Ex4-6</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

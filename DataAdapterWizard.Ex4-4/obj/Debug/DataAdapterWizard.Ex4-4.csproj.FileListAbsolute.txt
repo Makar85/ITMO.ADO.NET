@@ -1,0 +1,10 @@
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\DataAdapterWizard.Ex4-4\bin\Debug\DataAdapterWizard.Ex4-4.exe.config
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\DataAdapterWizard.Ex4-4\bin\Debug\DataAdapterWizard.Ex4-4.exe
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\DataAdapterWizard.Ex4-4\bin\Debug\DataAdapterWizard.Ex4-4.pdb
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\DataAdapterWizard.Ex4-4\obj\Debug\DataAdapterWizard.Ex4-4.csproj.AssemblyReference.cache
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\DataAdapterWizard.Ex4-4\obj\Debug\DataAdapterWizard.Ex4_4.Form1.resources
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\DataAdapterWizard.Ex4-4\obj\Debug\DataAdapterWizard.Ex4_4.Properties.Resources.resources
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\DataAdapterWizard.Ex4-4\obj\Debug\DataAdapterWizard.Ex4-4.csproj.GenerateResource.cache
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\DataAdapterWizard.Ex4-4\obj\Debug\DataAdapterWizard.Ex4-4.csproj.CoreCompileInputs.cache
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\DataAdapterWizard.Ex4-4\obj\Debug\DataAdapterWizard.Ex4-4.exe
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\DataAdapterWizard.Ex4-4\obj\Debug\DataAdapterWizard.Ex4-4.pdb

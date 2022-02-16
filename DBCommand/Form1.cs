@@ -115,7 +115,7 @@ namespace DBCommand
         private void button3_Click(object sender, EventArgs e)
         {
             StringBuilder results = new StringBuilder();                      
-            using (sqlConnection1)
+            //using (sqlConnection1)
             {
                 try
                 {

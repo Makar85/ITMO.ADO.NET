@@ -1,0 +1,9 @@
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\DataBindingSimple.Ex5-2\bin\Debug\DataBindingSimple.Ex5-2.exe.config
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\DataBindingSimple.Ex5-2\bin\Debug\DataBindingSimple.Ex5-2.exe
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\DataBindingSimple.Ex5-2\bin\Debug\DataBindingSimple.Ex5-2.pdb
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\DataBindingSimple.Ex5-2\obj\Debug\DataBindingSimple.Ex5_2.Properties.Resources.resources
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\DataBindingSimple.Ex5-2\obj\Debug\DataBindingSimple.Ex5-2.csproj.GenerateResource.cache
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\DataBindingSimple.Ex5-2\obj\Debug\DataBindingSimple.Ex5-2.csproj.CoreCompileInputs.cache
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\DataBindingSimple.Ex5-2\obj\Debug\DataBindingSimple.Ex5-2.exe
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\DataBindingSimple.Ex5-2\obj\Debug\DataBindingSimple.Ex5-2.pdb
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\DataBindingSimple.Ex5-2\obj\Debug\DataBindingSimple.Ex5_2.Form1.resources

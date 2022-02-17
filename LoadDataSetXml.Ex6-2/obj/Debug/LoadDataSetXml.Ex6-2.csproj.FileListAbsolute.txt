@@ -1,0 +1,9 @@
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\LoadDataSetXml.Ex6-2\bin\Debug\LoadDataSetXml.Ex6-2.exe.config
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\LoadDataSetXml.Ex6-2\bin\Debug\LoadDataSetXml.Ex6-2.exe
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\LoadDataSetXml.Ex6-2\bin\Debug\LoadDataSetXml.Ex6-2.pdb
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\LoadDataSetXml.Ex6-2\obj\Debug\LoadDataSetXml.Ex6_2.Form1.resources
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\LoadDataSetXml.Ex6-2\obj\Debug\LoadDataSetXml.Ex6_2.Properties.Resources.resources
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\LoadDataSetXml.Ex6-2\obj\Debug\LoadDataSetXml.Ex6-2.csproj.GenerateResource.cache
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\LoadDataSetXml.Ex6-2\obj\Debug\LoadDataSetXml.Ex6-2.csproj.CoreCompileInputs.cache
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\LoadDataSetXml.Ex6-2\obj\Debug\LoadDataSetXml.Ex6-2.exe
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\LoadDataSetXml.Ex6-2\obj\Debug\LoadDataSetXml.Ex6-2.pdb

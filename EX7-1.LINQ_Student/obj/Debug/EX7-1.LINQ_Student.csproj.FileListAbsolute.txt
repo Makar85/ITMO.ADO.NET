@@ -1,0 +1,7 @@
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\EX7-1.LINQ_Student\bin\Debug\EX7-1.LINQ_Student.exe.config
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\EX7-1.LINQ_Student\bin\Debug\EX7-1.LINQ_Student.exe
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\EX7-1.LINQ_Student\bin\Debug\EX7-1.LINQ_Student.pdb
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\EX7-1.LINQ_Student\obj\Debug\EX7-1.LINQ_Student.csproj.AssemblyReference.cache
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\EX7-1.LINQ_Student\obj\Debug\EX7-1.LINQ_Student.csproj.CoreCompileInputs.cache
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\EX7-1.LINQ_Student\obj\Debug\EX7-1.LINQ_Student.exe
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\EX7-1.LINQ_Student\obj\Debug\EX7-1.LINQ_Student.pdb

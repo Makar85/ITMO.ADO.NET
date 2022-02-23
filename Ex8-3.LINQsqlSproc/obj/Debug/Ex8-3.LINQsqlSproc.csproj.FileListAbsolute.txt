@@ -1,0 +1,10 @@
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\Ex8-3.LINQsqlSproc\bin\Debug\Ex8-3.LINQsqlSproc.exe.config
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\Ex8-3.LINQsqlSproc\bin\Debug\Ex8-3.LINQsqlSproc.exe
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\Ex8-3.LINQsqlSproc\bin\Debug\Ex8-3.LINQsqlSproc.pdb
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\Ex8-3.LINQsqlSproc\obj\Debug\Ex8-3.LINQsqlSproc.csproj.AssemblyReference.cache
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\Ex8-3.LINQsqlSproc\obj\Debug\Ex8_3.LINQsqlSproc.Form1.resources
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\Ex8-3.LINQsqlSproc\obj\Debug\Ex8_3.LINQsqlSproc.Properties.Resources.resources
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\Ex8-3.LINQsqlSproc\obj\Debug\Ex8-3.LINQsqlSproc.csproj.GenerateResource.cache
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\Ex8-3.LINQsqlSproc\obj\Debug\Ex8-3.LINQsqlSproc.csproj.CoreCompileInputs.cache
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\Ex8-3.LINQsqlSproc\obj\Debug\Ex8-3.LINQsqlSproc.exe
+C:\Users\makki\OneDrive\Desktop\ИТМО\Инженер программист\ADO.NET\ADO.NET my work\ADO.NET git local repos\Ex8-3.LINQsqlSproc\obj\Debug\Ex8-3.LINQsqlSproc.pdb

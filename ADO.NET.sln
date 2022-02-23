@@ -31,6 +31,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SavingDataSetXml.Ex6-1", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadDataSetXml.Ex6-2", "LoadDataSetXml.Ex6-2\LoadDataSetXml.Ex6-2.csproj", "{E4D63694-EFB8-4C9B-A10D-8819EA1A7F6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX7-1.LINQ_Student", "EX7-1.LINQ_Student\EX7-1.LINQ_Student.csproj", "{44B7EFA6-8963-4EC5-9E59-F850663A2A44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex8-1.LINQsql_1", "Ex8-1.LINQsql_1\Ex8-1.LINQsql_1.csproj", "{8CF78794-29C9-45BC-827F-2E6392626E81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex8-3.LINQsqlSproc", "Ex8-3.LINQsqlSproc\Ex8-3.LINQsqlSproc.csproj", "{CA09CECD-CB4C-4130-86B1-740C8A33DB7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex8-4.LINQsql_m", "Ex8-4.LINQsql_m\Ex8-4.LINQsql_m.csproj", "{8CF039AE-348A-4640-A05C-A025CDAAA131}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +101,22 @@ Global
 		{E4D63694-EFB8-4C9B-A10D-8819EA1A7F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4D63694-EFB8-4C9B-A10D-8819EA1A7F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4D63694-EFB8-4C9B-A10D-8819EA1A7F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B7EFA6-8963-4EC5-9E59-F850663A2A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B7EFA6-8963-4EC5-9E59-F850663A2A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B7EFA6-8963-4EC5-9E59-F850663A2A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B7EFA6-8963-4EC5-9E59-F850663A2A44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF78794-29C9-45BC-827F-2E6392626E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF78794-29C9-45BC-827F-2E6392626E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF78794-29C9-45BC-827F-2E6392626E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF78794-29C9-45BC-827F-2E6392626E81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA09CECD-CB4C-4130-86B1-740C8A33DB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA09CECD-CB4C-4130-86B1-740C8A33DB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA09CECD-CB4C-4130-86B1-740C8A33DB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA09CECD-CB4C-4130-86B1-740C8A33DB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF039AE-348A-4640-A05C-A025CDAAA131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF039AE-348A-4640-A05C-A025CDAAA131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF039AE-348A-4640-A05C-A025CDAAA131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF039AE-348A-4640-A05C-A025CDAAA131}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
